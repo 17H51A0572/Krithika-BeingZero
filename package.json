@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/17H51A0572/Krithika-BeingZero/issues"
   },
-  "homepage": "https://github.com/17H51A0572/Krithika-BeingZero#readme"
+  "homepage": "https://github.com/17H51A0572/Krithika-BeingZero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
