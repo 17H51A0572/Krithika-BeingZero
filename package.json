@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/17H51A0572/Krithika-BeingZero#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
